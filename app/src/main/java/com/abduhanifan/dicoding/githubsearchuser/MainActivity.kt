@@ -61,7 +61,6 @@ class MainActivity : AppCompatActivity() {
 
     private fun showListUser() {
         rv_User.layoutManager = LinearLayoutManager(this)
-
         adapter = UserAdapter {
             val intent = Intent(this@MainActivity, DetailActivity::class.java)
             intent.putExtra(EXTRA_USER, it)

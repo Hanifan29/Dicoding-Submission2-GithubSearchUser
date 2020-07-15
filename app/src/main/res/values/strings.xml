@@ -3,7 +3,6 @@
     <string name="search_label">Github Search User</string>
     <string name="detail_label">Detail User</string>
     <string name="description_avatar">Avatar description</string>
-    <string name="description_search">Search icon</string>
     <string name="menu_language_settings">Language Settings</string>
     <string name="search_hint">Username</string>
     <string name="txt_repository">Repository</string>

@@ -4,7 +4,6 @@
     <string name="search_label">Pencarian Pengguna Github</string>
     <string name="detail_label">Detail Pengguna</string>
     <string name="description_avatar">Deskripsi Avatar</string>
-    <string name="description_search">Icon pencarian</string>
     <string name="menu_language_settings">Pengaturan Bahasa</string>
     <string name="search_hint">Username</string>
     <string name="txt_repository">Repositori</string>
